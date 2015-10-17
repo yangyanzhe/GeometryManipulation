@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/3.jpg</file>
+        <file>images/6.jpg</file>
+        <file>images/blue.png</file>
+        <file>images/blue-light.png</file>
+        <file>images/cut-32.png</file>
+        <file>images/cut-48.png</file>
+        <file>images/green.png</file>
+        <file>images/green-light.png</file>
+        <file>images/orange.png</file>
+        <file>images/purple.png</file>
+        <file>images/purple-light.png</file>
+        <file>images/red.png</file>
+        <file>images/Rotate-01-32.png</file>
+        <file>images/rotate-32.png</file>
+        <file>images/Stationery-Pen-32.png</file>
+        <file>images/Stationery-Pen-48.png</file>
+        <file>images/yellow.png</file>
+        <file>images/Zooming-32.png</file>
+        <file>images/Zoom-Scroll-32.png</file>
+        <file>images/Zoom-Scroll-48.png</file>
+        <file>images/1.jpg</file>
+        <file>images/Shape10-48.png</file>
+        <file>images/Free-Transform-48.png</file>
+        <file>images/Fruit-Orange-03-48.png</file>
+        <file>images/Highlighted-48.png</file>
+        <file>images/Paint-Bucket-48.png</file>
+        <file>images/Shape62-48.png</file>
+        <file>images/Wrong-48.png</file>
+        <file>images/Unmark-To-Download-48.png</file>
+        <file>images/Zooming-48.png</file>
+        <file>images/Cut-48 (1).png</file>
+        <file>images/Command-Redo-48.png</file>
+        <file>images/Command-Undo-48.png</file>
+        <file>images/Share-02-48.png</file>
+        <file>images/Share-05-48.png</file>
+        <file>images/Turn-48.png</file>
+        <file>images/Shape-Square2-48.png</file>
+        <file>images/Selection-48.png</file>
+        <file>images/Swap-Left-48.png</file>
+        <file>images/Swap-Right-48.png</file>
+    </qresource>
+</RCC>

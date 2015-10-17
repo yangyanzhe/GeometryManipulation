@@ -1,0 +1,15 @@
+INPUT(
+./release/main.o
+./release/mainwindow.o
+./release/paint.o
+./release/mybutton.o
+./release/paintwidget.o
+./release/mainwindowbuttons.o
+./release/polygen.o
+./release/paintoperation.o
+./release/paintclip.o
+./release/qrc_icon.o
+./release/moc_mainwindow.o
+./release/moc_mybutton.o
+./release/moc_paintwidget.o
+);
